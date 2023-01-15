@@ -8,9 +8,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nityanandmathur.nityanandmathur)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am an CS Undergrad @ IIIT Guwahati. I love programming, writing, speaking and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+> Machine Learning and Data Science enthusiast
+
+As a researcher, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
