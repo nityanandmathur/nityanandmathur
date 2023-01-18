@@ -25,7 +25,7 @@ As a researcher, I enjoy using my obsessive attention to detail, my unequivocal 
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working at [CogXR Labs](https://cogxrlabs.com);
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: nityanandmathur@gmail.com;
-- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/Nityanand_Resume%20.pdf).
+- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/Nityanand_Resume.pdf).
 
 </br>
 
