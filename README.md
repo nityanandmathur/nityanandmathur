@@ -6,9 +6,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nityanand.mathur/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Nityanand_Mathur)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nityanandmathur.nityanandmathur)
+### Glad to see you here! &nbsp;
 
-I am an CS Undergrad @ IIIT Guwahati. I love programming, writing, speaking and traveling.
+I am an CS Undergrad @ IIIT Guwahati. I love programming, writing, speaking, swimming and traveling.
 
 > Machine Learning and Data Science enthusiast
 <h3 align="left">Languages and Tools:</h3>
