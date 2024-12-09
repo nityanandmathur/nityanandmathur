@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp;
 
-Data Scientist @ [smalles.ai](https://smallest.ai/). I love programming, writing, speaking, swimming and traveling.
+Data Scientist @ [smallest.ai](https://smallest.ai/). I love programming, writing, speaking, swimming and traveling.
 
 > Interested in Computer Vision and Audio.
 <h3 align="left">Languages and Tools:</h3>
