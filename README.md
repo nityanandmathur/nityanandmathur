@@ -8,11 +8,9 @@
 
 ### Glad to see you here! &nbsp;
 
-I am an CS Undergrad @ IIIT Guwahati. I love programming, writing, speaking, swimming and traveling.
+Data Scientist @ [smalles.ai](https://smallest.ai/). I love programming, writing, speaking, swimming and traveling.
 
-> Machine Learning and Data Science enthusiast.
-
-> Interested in Computer Vision and NLP.
+> Interested in Computer Vision and Audio.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="java" width="40" height="40"/></p>
 
@@ -27,7 +25,6 @@ As a researcher, I enjoy using my obsessive attention to detail, my unequivocal 
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I love applied research.;
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: nityanandmathur@gmail.com;
-- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://nityanandmathur.live/CV.pdf).
 
 </br>
 
