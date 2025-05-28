@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=30&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=%24+whoami;Nityanand+Mathur;Researcher+%7C+ML+Engineer+%7C+Code+Alchemy" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=30&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=%24+whoami;Nityanand+Mathur;" alt="Typing SVG" /></h1>
 
 ```
 > nityanandmathur@github:~$ ./about_me.sh
