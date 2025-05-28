@@ -15,7 +15,7 @@
 ## [root@machine ~]# tail -7 ./publications.log
 
 - [CLIPDrawX: Primitive-based Explanations for Text Guided Sketch Synthesis](https://clipdrawx.github.io/)  
-  [`arXiv:2312.02345`](https://arxiv.org/abs/2312.02345) | *First Author*  
+  [`arXiv:2312.02345`](https://arxiv.org/abs/2312.02345) 
 - [DiffuseKronA: Param. Efficient Finetuning for Personalized Diffusion Models](https://diffusekrona.github.io/)  
   [`arXiv:2402.17412`](https://arxiv.org/abs/2402.17412)
 - [SVGCraft: Beyond Single Object Text-to-SVG Syn. with Canvas Layout](https://svgcraf.github.io/)  
